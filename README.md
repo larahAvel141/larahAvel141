@@ -3,6 +3,8 @@
 - 🌱 Estudando Java
 - 😄 Pronouns: ela/dela
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/larah-avellar-466a00231/)
+
 <div>
   <a href= "https://github.com/larahAvel141">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=larahAvel141&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +14,7 @@
 <div style="display: incline_block"><br>
   <img align="center" alt="Larah-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
 </div>
-  
+ 
 ##
 
 
