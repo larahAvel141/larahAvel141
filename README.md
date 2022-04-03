@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/profile.php?id=100010364058509)
 <div>
   <a href= "https://github.com/larahAvel141">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=larahAvel141&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=larahAvel141&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larahAvel141&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: incline_block"><br>
