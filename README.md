@@ -3,7 +3,7 @@
 - 🌱 Estudando Java
 - 😄 Pronouns: ela/dela
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/larah-avellar-466a00231/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/mwlite/in/larah-avellar-891a0b225/)
 <a href = "mailto:larahavellar44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/profile.php?id=100010364058509)
 <div>
