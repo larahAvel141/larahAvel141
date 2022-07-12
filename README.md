@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Larah Avellar 👋
 
 -  👩‍💻 Desenvolvedora Backend
-- 🌱 Estudando  Java 
+- 🌱 Estudando  Java | Html | Css | JavaScript
 - 😄 Pronouns: ela/dela</br>
 
 Procurando  uma oportunidade na área de programação.
