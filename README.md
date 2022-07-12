@@ -4,7 +4,6 @@
 - 🌱 Estudando  Java | Html | Css | JavaScript
 - 😄 Pronouns: ela/dela</br>
 
-Procurando  uma oportunidade na área de programação.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/mwlite/in/larah-avellar-891a0b225/)
 <a href = "mailto:larahavellar44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
